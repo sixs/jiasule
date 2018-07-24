@@ -10,7 +10,6 @@ import re
 import execjs
 import requests
 from copy import deepcopy
-import json
 
 session = requests.Session()
 headers = {
